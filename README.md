@@ -6,6 +6,8 @@
 ### 3) Open cmd in the same folder as Reddit.py
 ### 4) Run the script by typing the syntax
 ### Syntax are:
-### "Reddit.py -c" to delete comments
-### "Reddit.py -p" to delete posts
-### "Reddit.py -p -c" to delete both post and comment
+```
+"Reddit.py -c" to delete comments
+"Reddit.py -p" to delete posts
+"Reddit.py -p -c" to delete both post and comment
+```
